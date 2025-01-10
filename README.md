@@ -36,7 +36,7 @@ After years of bringing ideas to life in animation, I’ve discovered my passion
 
 ## 📬 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/reangsak-budsabonphaitoon-109412337/)  
-- 📧 pipitwattana.s@gmail.com
+- 📧 reangsak.bud@gmail.com
 
 ---
 
