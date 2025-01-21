@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Reangsak Budsabongphaitoon (Tong)
 
 
-🔥 **Passionate Full-Stack Developer** | 🔍 Curious Learner | 📈 Always Improving
+🔥 **Passionate Full-Stack Developer** | 🌟 Learning Through Action | 🔧 Turning Ideas into Reality
 
 🌟 I started my journey as an Electrical Engineering student. However, after experiencing real factory work during my internship and after graduation, I realized it wasn’t the right path for me.  
 💡 After some self-reflection, I remembered my past interest in coding—a passion I hadn't explored. Now, I’m fully committed to pursuing it!
