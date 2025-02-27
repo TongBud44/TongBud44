@@ -8,16 +8,12 @@
 
 ---
 
-## 🔭 Current Project
-- 💖 **[Merry Match](https://github.com/Teehim00/merry_match_project)**: A dating website that connects people with real-time chat, built with **Socket.io**, **Supabase**, and a mix of SQL & NoSQL databases.
-
----
-
 ## 🚀 My Tech Stack
 
 **Frontend**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white).
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
